@@ -1,1 +1,1 @@
-print("Created home page")
+print("Create home page")
